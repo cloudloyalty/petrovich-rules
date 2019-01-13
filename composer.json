@@ -1,0 +1,10 @@
+{
+    "name": "cloudloyalty/petrovich-rules",
+    "version": "dev-master",
+    "source": {
+        "url": "https://github.com/petrovich/petrovich-rules",
+        "type": "git",
+        "reference": "master"
+    }
+}
+
