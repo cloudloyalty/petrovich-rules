@@ -5,6 +5,11 @@
         "url": "https://github.com/petrovich/petrovich-rules",
         "type": "git",
         "reference": "master"
+    },
+    "dist": {
+        "type": "zip",
+        "url": "https://api.github.com/repos/petrovich/petrovich-rules/zipball/master",
+        "reference": "master"
     }
 }
 
