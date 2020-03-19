@@ -1,6 +1,6 @@
 {
     "name": "cloudloyalty/petrovich-rules",
-    "version": "dev-master",
+    "license": "MIT",
     "source": {
         "url": "https://github.com/petrovich/petrovich-rules",
         "type": "git",
